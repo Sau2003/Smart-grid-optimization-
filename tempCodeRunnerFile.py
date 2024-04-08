@@ -1,0 +1,10 @@
+# Plotting time series for selected variables with stability as the hue for one day on an hourly basis
+# plt.figure(figsize=(12, 8))
+# sns.lineplot(x='Hour', y='power1', hue='stability', data=one_day_df, palette=line_colors, ci=None, label='Power 1')
+# sns.lineplot(x='Hour', y='power2', hue='stability', data=one_day_df, palette=line_colors, ci=None, label='Power 2')
+# sns.lineplot(x='Hour', y='power3', hue='stability', data=one_day_df, palette=line_colors, ci=None, label='Power 3')
+# plt.xlabel('Hour of the Day')
+# plt.ylabel('Power')
+# plt.title('Power Generation Trends Over Hours of the Day with Stability (One Day)')
+# plt.legend(title='Stability')
+# plt.show()
